@@ -1,4 +1,4 @@
-module github.com/bitmyth/termbox-demo
+module github.com/bitmyth/choice
 
 go 1.12
 
